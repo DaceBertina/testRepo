@@ -1,0 +1,3 @@
+Šeit būs jāraksta python kods..... :)
+
+Un droši vien būs arī jāveic labojumi....
